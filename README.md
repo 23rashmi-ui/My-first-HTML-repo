@@ -3,7 +3,7 @@ author Rashmi Marskole,<br>
 Basic knowledge of HTML<br>
 HTML-full name hyper text markup language 
 <h1>What is HTML?<h1><br>
-<p font:size=20;>HTML stands for Hyper Text Markup Language<br>
+<p style="font-size:60px;">HTML stands for Hyper Text Markup Language<br>
  HTML is the standard markup language for creating Web pages<br>
  HTML describes the structure of a Web page<br>
  HTML consists of a series of elements<br>
