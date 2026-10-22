@@ -52,7 +52,7 @@ An HTML element is defined by a start tag, some content, and an end tag:
  </tr>
   <tr>
     <td><p></td>
-    <td>Element content</td>
+    <td>My first paragraph</td>
    <td></p></td>
   </tr>
   <tr>
