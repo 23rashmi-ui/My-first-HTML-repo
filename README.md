@@ -45,22 +45,19 @@ An HTML element is defined by a start tag, some content, and an end tag:
    <th>End tag</th>
   </tr>
   <tr>
-    <td>h1</td>
+    <td><h1></h1></td>
     <td>My First Heading</td>
-   <td><h1></td>
-   <td>h1></td>
+   <td></h1></td>
  </tr>
   <tr>
     <td><p></td>
     <td>Element content</td>
-   <td>
-   </p>
-   </td>
+   <td></p></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-   <td></td>
+    <td><th></td>
+    <td>none</td>
+   <td></th></td>
   </tr>
 </table>
 
