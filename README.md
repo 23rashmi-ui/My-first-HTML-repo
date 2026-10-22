@@ -56,9 +56,9 @@ An HTML element is defined by a start tag, some content, and an end tag:
    <td></p></td>
   </tr>
   <tr>
-    <td><th></td>
+    <td><br></td>
     <td>none</td>
-   <td></th></td>
+   <td>none</td>
   </tr>
 </table>
 
