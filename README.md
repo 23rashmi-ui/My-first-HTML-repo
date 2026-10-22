@@ -46,7 +46,7 @@ An HTML element is defined by a start tag, some content, and an end tag:
    <th>End tag</th>
   </tr>
   <tr>
-    <td><h1></h1></td>
+    <td><h1></td>
     <td>My First Heading</td>
    <td></h1></td>
  </tr>
