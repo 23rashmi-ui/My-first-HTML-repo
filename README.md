@@ -38,7 +38,8 @@ An HTML element is defined by a start tag, some content, and an end tag:
 <tagname> Content goes here... </tagname>
 <p>The HTML element is everything from the start tag to the end tag:<p/>
  <h1>My First Heading</h1>
- <p>My first paragraph.</p> <table>
+ <p>My first paragraph.</p> 
+ <table>
   <tr>
     <th>Start tag</th>
     <th>Element content</th>
