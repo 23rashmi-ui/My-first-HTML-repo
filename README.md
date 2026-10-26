@@ -56,7 +56,7 @@ An HTML element is defined by a start tag, some content, and an end tag:
    <td>&It;/p&gt;</td>
   </tr>
   <tr>
-    <td>&it;b&gt;</td>
+    <td>&lt;b&gt;</td>
     <td>none</td>
    <td>none</td>
   </tr>
