@@ -63,12 +63,43 @@ An HTML element is defined by a start tag, some content, and an end tag:
  </table>
  <h1>HTML Editiors</h1>
 A simple text editor is all you need to learn HTML.<br>
-Learn HTML Using Notepad or TextEdit<br>
+<h2>Learn HTML Using Notepad or TextEdit</h2><br>
 Web pages can be created and modified by using professional HTML editors.<br>
 However, for learning HTML we recommend a simple text editor like Notepad (PC) or TextEdit (Mac).<br>
 We believe that using a simple text editor is a good way to learn HTML.<br>
 Follow the steps below to create your first web page with Notepad or TextEdit.
+<h1>Step 1: Open Notepad (PC)</h1>
+<bold>Windows 8 or later:</bold>
 
+Open the Start Screen (the window symbol at the bottom left on your screen). Type Notepad.
+
+Windows 7 or earlier:
+
+Open Start > Programs > Accessories > Notepad
+
+Step 1: Open TextEdit (Mac)
+Open Finder > Applications > TextEdit
+
+Also change some preferences to get the application to save files correctly. In Preferences > Format > choose "Plain Text"
+
+Then under "Open and Save", check the box that says "Display HTML files as HTML code instead of formatted text".
+
+Then open a new document to place the code.
+
+Step 2: Write Some HTML
+Write or copy the following HTML code into Notepad:
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
+Notepad
 
 
 
