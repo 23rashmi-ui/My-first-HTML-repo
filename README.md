@@ -56,11 +56,17 @@ An HTML element is defined by a start tag, some content, and an end tag:
    <td>&lt;/p&gt;</td>
   </tr>
   <tr>
-    <td>&lt;b&gt;</td>
+    <td>&lt;br&gt;</td>
     <td>none</td>
    <td>none</td>
   </tr>
 </table>
+
+Learn HTML Using Notepad or TextEdit<br>
+Web pages can be created and modified by using professional HTML editors.<br>
+However, for learning HTML we recommend a simple text editor like Notepad (PC) or TextEdit (Mac).<br>
+We believe that using a simple text editor is a good way to learn HTML.<br>
+Follow the steps below to create your first web page with Notepad or TextEdit.
 
 
 
