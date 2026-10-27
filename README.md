@@ -77,7 +77,7 @@ Windows 7 or earlier:
 
 Open Start > Programs > Accessories > Notepad
 
-Step 1: Open TextEdit (Mac)
+<h2>Step 1: Open TextEdit (Mac)<h2>
 Open Finder > Applications > TextEdit
 
 Also change some preferences to get the application to save files correctly. In Preferences > Format > choose "Plain Text"
@@ -86,7 +86,7 @@ Then under "Open and Save", check the box that says "Display HTML files as HTML 
 
 Then open a new document to place the code.
 
-Step 2: Write Some HTML
+<h2>Step 2: Write Some HTML</h2>
 Write or copy the following HTML code into Notepad:
 
 <!DOCTYPE html>
